@@ -1,0 +1,60 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+header {
+	background: #2C2E30;
+	height: 50px;
+	width: 100%;
+	color: #fff;
+	font-family: Helvetica;
+	font-size: 25px;
+
+}
+.apple {
+	padding: 2%;
+	display: inline-block;
+	float: left;
+}
+.google {
+	padding: 2%;
+	display: inline-block;
+	float: left;
+}
+
+body {
+	background: #fff;
+
+}
+.container {
+	display: inline-block;
+	margin: 0% 60% 0% 8%;
+	width: 35%;
+	height: 900px;
+	float: left;
+}
+.title {
+	font-size: 60px;
+	font-family: Helvetica;
+	margin: 20px auto;
+}
+.container2 {
+	display: inline-block;
+	margin: 0% 8% 0% 60%;
+	width: 35%;
+	height: 900px;
+	float: right;
+	}
+.content {
+	background: url(http://www.fugly.com/media/IMAGES/Random/raffi_has_a_new_album.jpg);
+	height: 150px;
+	width: 175px;
+}
+
+.footer {
+	background: #2C2E30;
+	height: 50px;
+	width: 100%;
+	float: left;
+}

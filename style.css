@@ -1,0 +1,42 @@
+html, body {
+	height:100%;
+	width: 100%;
+	margin: 0;
+}
+
+
+.nav-top {
+	background: #000;
+	color: #FFF;
+	width: 100%;
+	display: inline-flex;
+	padding: 10px 15px;
+	justify-content: center;
+	flex-direction: column;
+	height: 100px;
+	align-items: center;
+}
+.button {
+	padding: 10px 15px;
+}
+.button:hover {
+	background: #666;
+	display: inline-block;
+	transition: background 0.8s linear;
+}
+.button:active {
+	background: #999;
+}
+@media (min-width: 800px) {
+	.main {
+		background: blue;
+	}
+}
+.main {
+	height: 500px;
+	width: 100%;
+	background: red;
+}
+.nav-top {
+	flex-direction: row;
+}

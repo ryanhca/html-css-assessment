@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	
+	<head></head>
+		<title>Round Two1</title>
+			<link href="style.css" rel="stylesheet" type="text/css"> 
+			<body>
+				<nav>
+					<div class="button">Home</div>
+					<div class="button">About</div>
+					<div class="button">Store</div>
+					<div class="button">Contact</div>
+				</nav>
+			</body>
+</html>
+
